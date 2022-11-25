@@ -1,0 +1,195 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: .2s linear;
+    /* background-color: black; */
+}
+h3  {
+        color: white;
+        padding-top: 26px;
+        padding-left: 15px;
+        font-size: xx-large;
+    }
+header{
+    display: flex;
+    background-color: black;
+    /* position: fixed; */
+    margin-top: 10px;
+}
+.logo img{
+    padding-left: 243px;
+    padding-top: 10px;
+   }
+   a:hover{
+  
+    color: green;
+}
+.navbar{
+       padding-left: 300px;
+       padding-top: 30px;
+       font-size: larger;
+       height: 90px;
+}
+a{
+    padding-left: 75px;
+    color: white;
+    text-decoration: none;  
+}
+.logo img{
+    height: 74px;
+   
+}
+
+.home{
+    background: url("3.jpg");
+    display: flex;
+    align-items: center;
+    margin-top: 130px;
+    margin-left: 170px;
+
+}
+
+.home div .home1{
+   background-color: white;
+   height: 200px;
+   border: 2px solid red;
+}
+.home .home1 img{
+   height: 700px;
+   width:400px;
+}
+.home{
+    color: rgb(0, 0, 0);
+    font-size: 55px;
+ }
+.container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 2fr));
+    padding: 5rem;
+    margin: 5px;
+}
+.button1{
+    border: solid black 1px;
+    height: 50px;
+    width: 300px;
+    border-radius: 40px;
+}
+.box {
+    /* border: 2px solid orange; */
+    text-align: center;
+}
+.nexthome h2{
+    padding-top: 39px;
+    text-align: center;
+   font-size: 59px;
+   /* color: white; */
+}
+.box h4 {
+    padding-top: 28px;
+    font-size: 29px;
+    font-weight: bolder;
+ }
+.container{
+    display: flex;
+   
+    justify-content: center;
+}
+.menu h2{
+    color: black;
+    text-align: center;
+}
+.box {
+    /* border: 2px solid orange; */
+    height: 395px;
+}
+
+.box p {
+   padding-top: 14px;
+   font-size: larger;
+}
+.menu h1{
+    text-align: center;
+}
+
+.container .box img{
+  height: 196px;
+  width: 196px;
+}
+.home100{
+    text-align: center;
+    background-color: rgb(167, 92, 104);
+    height: 300px;
+}
+.home100 h4{
+    padding-top: 30px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.home90{
+   height: 200px;
+   background-color: rgb(76, 168, 168);
+}
+.last a{
+    text-decoration: none;
+    color: black;
+    padding: 8px;
+}
+.last div{
+   margin-left: 207px;
+}
+.home90 h1{
+   font-size: 80px;
+   text-align: center;
+}
+.home90 button{
+  background-color: white;
+  color: black;
+  padding: 22px 22px;
+  border-radius: 30px;
+}
+.foot{
+
+    background-color: rgb(53, 74, 95);
+}
+.foot1 div ol li a{
+    text-decoration: none;
+    color: black;
+ }
+.foot1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.foot1 div{
+    padding: 10px 71px;
+}
+.foot1 div ol li{
+    list-style: none;
+   padding-top: 20px;
+}
+
+.logo34{
+    padding-left: 128px;
+    display: flex;
+    align-items: center;
+    height: 80px;
+}
+.logo34  i{
+    padding-left: 15px;
+}
+.last{
+    padding-top: 30px;
+    display: flex;
+    align-items: center;
+    height: 50px;
+}
+
+.last div1{
+   margin-left: 760px;
+}
